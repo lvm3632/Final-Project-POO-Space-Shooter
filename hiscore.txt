@@ -1,0 +1,6 @@
+Juancho;130.0
+Rafa;130.0
+Daniel;210.0
+Pablo;220.0
+Raul;280.0
+Jaime;100.0
